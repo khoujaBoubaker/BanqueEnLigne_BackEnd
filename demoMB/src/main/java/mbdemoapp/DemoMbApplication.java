@@ -198,6 +198,8 @@ public class DemoMbApplication implements CommandLineRunner {
 		
 		//this.banqueMetier.AjouterCreditAunClient(1,new Credit());
 		
+		System.out.println("command line runner");
+		
 		
 		
 

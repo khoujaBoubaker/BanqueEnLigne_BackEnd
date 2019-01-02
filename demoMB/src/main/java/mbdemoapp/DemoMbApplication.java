@@ -73,8 +73,6 @@ import mbdemoapp.util.logs.ILogger;
 
 
 @SpringBootApplication
-@EnableAspectJAutoProxy
-@Configuration
 public class DemoMbApplication implements CommandLineRunner {
 	
 	//@Autowired
